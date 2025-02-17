@@ -1,9 +1,12 @@
 <?php
-/**
- * Web Shell Detector v1.66
- * Web Shell Detector is released under the MIT License <http://www.opensource.org/licenses/mit-license.php>
- * https://github.com/emposha/PHP-Shell-Detector
- */
+/*   _________________________________________________________________________________
+    |  Project: R00t-Shell.com - Php Obfuscator  2.0.15                               |
+    |  Author: R00t Shell                                                             |
+    |  Date: 2025-02-17 12:14:07                                                      |
+    |  Website: https://r00t-shell.com                                                |
+    |  Description: Obfuscates PHP code to increase security and protect source code. |
+    |_________________________________________________________________________________|
+*/
 
 set_time_limit(0);
 
