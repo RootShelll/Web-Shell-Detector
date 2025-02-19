@@ -1,4 +1,4 @@
-![Mini Shell PHP Script Overview](https://i.imgur.com/PyKET5A.png "Mini Shell PHP Script Overview")
+![Web Shell Detector Overview](https://r00t-shell.com/wp-content/uploads/2025/02/Web-Shell-Detector.png "Web Shell Detector Overview")
 
 ## What is Web Shell Detector?
 
